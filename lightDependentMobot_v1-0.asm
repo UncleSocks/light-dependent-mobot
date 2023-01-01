@@ -4,6 +4,7 @@
 ;Version: 1.0				;
 ;Title: Light-Dependent MOBOT		;
 ;					;
+;Description: PIC16F84			;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
